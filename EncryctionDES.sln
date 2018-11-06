@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryctionDES", "EncryctionDES\EncryctionDES.csproj", "{098FF0EE-5796-46BA-9243-8C363540C0D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098FF0EE-5796-46BA-9243-8C363540C0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098FF0EE-5796-46BA-9243-8C363540C0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098FF0EE-5796-46BA-9243-8C363540C0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098FF0EE-5796-46BA-9243-8C363540C0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489CB612-B79E-4724-AA49-E0720633B6E2}
+	EndGlobalSection
+EndGlobal
