@@ -1,0 +1,2 @@
+# bezopasnost
+bezopasnost dz
